@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Test1 extends StatelessWidget {
-  const Test1({super.key});
+class Test2 extends StatelessWidget {
+  const Test2({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return Text('text1');
+    return Text('text2');
   }
 }
