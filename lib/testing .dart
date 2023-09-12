@@ -5,6 +5,8 @@ class Testing extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text('testing');
+    return const Column(
+      children: [Text('testing')],
+    );
   }
 }
